@@ -1,0 +1,2 @@
+GNU/Linux hace referencia a los sistemas operativos basados en Unix cuyo núcleo (kernel) se conoce como Linux, creado por el ingeniero de software finlandés Linus Torvalds.
+Estos sistemas operativos emplean múltiples componentes y herramientas del proyecto GNU, como un ambiente de escritorio gráfico, editor de imágenes, bibliotecas para lenguajes de programación, compiladores, entre otros.
